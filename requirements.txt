@@ -1,0 +1,7 @@
+pyautogui
+pyperclip
+keyboard
+unidecode
+icecream
+opencv-python
+pillow
